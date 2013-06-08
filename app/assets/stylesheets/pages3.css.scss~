@@ -218,7 +218,7 @@ color: #333;
 .company_overview_section_2 p {
 	//background-color: orange;
 	width: 380px;
-	float: right;
+	float: left;
 }
 
 .company_overview h1 {

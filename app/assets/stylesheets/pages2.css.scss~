@@ -225,13 +225,17 @@ color: #333;
 	//background-color: pink;
 	font-style: italic;
 	//position: relative;
-	padding: 0px;
 	width: 350px;
 	margin: 25px 0px 70px 260px;
 	//float: left;
 }
 
+#company_overview_2 p{
+	padding: 0px 10px;
+
+}
+
 .company_overview p {
-	padding: 0px 15px;
+	//padding: 0px 10px;
 	margin-bottom: 15px;
 }
