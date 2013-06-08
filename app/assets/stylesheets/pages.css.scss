@@ -1,0 +1,231 @@
+/*******BODYPOINT UI DEV GUIDE STANDARDS*******/
+
+body {
+background-color: #f0f0f0;
+font-family: Arial, Helvetica, Sans-serif;
+color: #333;
+}
+
+h1 {
+font-size: 34px;
+line-height: 34px;
+margin: 0;
+font-weight: normal;
+}
+
+h2 {
+font-size: 20px;
+line-height: 22px;
+margin: 0 0 15px 0;
+font-weight: normal;
+}
+
+h3 {
+font-size: 16px;
+font-weight: normal;
+line-height: 18px;
+margin: 0 0 10px 0;
+}
+
+p {
+font-size: 12px;
+line-height: 18px;
+margin-bottom:10px;
+}
+
+a {
+text-decoration: none;
+color: #00747f;
+}
+
+a:hover {
+text-decoration: underline; 
+}
+
+p.intro {
+font-size: 16px;
+line-height: 24px;
+color: #000;
+margin-bottom: 0;
+}
+
+.breadcrumb {
+font-size: 10px;
+color: #a1a1a1;
+}
+
+a.navItem {
+display: inline-block;
+float: left;
+font-size: 14px;
+line-height: 50px;
+color: #333;
+text-transform: uppercase;
+padding: 0 20px;
+}
+
+a.navItem:hover {
+color: #00747f;
+background-color: #fff;
+}
+
+a.navActive {
+display: inline-block;
+float: left;
+font-size: 14px;
+line-height: 40px;
+color: #333;
+text-transform: uppercase;
+padding: 0 20px 5px 0;
+border-top: 5px solid #fff;
+}
+
+.flyHead {
+font-size: 12px;
+line-height: 14px;
+text-transform: uppercase;
+margin: 0 0 10px 0;
+}
+
+.flyCat {
+font-size: 10px;
+line-height: 12px;
+font-weight: bold;
+margin: 15px 0 5px 0;
+}
+
+.flyText {
+font-size: 10px;
+line-height:12px;
+margin: 0 0 5px 0;
+}
+
+.corpNavItem, .cta {
+font-size: 12px;
+line-height: 30px;
+color: #666;
+}
+
+.corpNavItem a {
+color:#666;
+}
+
+.cta a {
+color: #00747f;
+}
+
+.adIntro {
+font-size: 12px;
+margin-bottom: 5px;
+}
+
+.adHeadline {
+font-size: 34px;
+line-height: 40px;
+}
+
+.label {
+font-size: 14px;
+line-height: 30px;
+}
+
+.capsLabel {
+font-size: 12px;
+line-height: 14px;
+margin: 0 0 2px 0;
+}
+
+ul {
+color: #00747f;
+font-size:12px;
+line-height:12px;
+margin:0 0 10px 0;
+padding:0 0 0 16px;
+}
+
+li {
+margin-bottom: 8px;
+}
+
+.selectTitle {
+font-size:16px;
+line-height: 49px;
+}
+
+.selectTitle span {
+font-size: 12px;
+}
+
+p.lightNote {
+color: #a1a1a1;
+margin-bottom: 0;
+}
+
+th {
+font-size: 10px;
+line-height: 11px;
+color: #333;
+}
+
+td {
+font-size: 12px;
+color: #333;
+}
+
+/********CSS FRAMING******/
+
+.design_framework {
+	width: 940px;
+	margin: 0px auto;
+	//background-color: yellow;
+}
+
+.company_overview {
+	//background-color: orange;
+	padding: 20px 70px;
+}
+
+#basketball_img {
+	position: relative;
+	border-radius: 5px;
+	float: left;
+}
+
+#ml100award_img {
+	//background-color: green;
+	width: 225px;
+	height: auto;
+	margin: 10px 0px 20px 30px;
+	position: relative;
+	border-radius: 5px;
+}
+
+.company_overview h1 {
+	//background-color: green;
+	//position: relative;
+	//width: 250px;
+	font-weight: bold;
+	margin: 25px 0px 30px 260px;
+	//float: right;
+}
+
+.company_overview h3 {
+	//background-color: red;
+	line-height: 20px;
+	float: right;
+	width: 300px;
+	margin: 30px 220px 0px 0px
+}
+
+#company_overview_qoute {
+	//background-color: pink;
+	font-style: italic;
+	//position: relative;
+	width: 350px;
+	margin: 25px 0px 70px 260px;
+	//float: left;
+}
+
+.company_overview p {
+	margin-bottom: 15px;
+}
