@@ -3,9 +3,8 @@ Bodypoint::Application.routes.draw do
 	root to: 'pages#index'
 
 	match '/company_overview', to: 'pages#company_overview'
-	match '/html', to: 'home#html'
-	match '/rails', to: 'home#rails'
-
+	match '/company_overview_2', to: 'pages2#company_overview_2'
+	match '/company_overview_3', to: 'pages3#company_overview_3'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

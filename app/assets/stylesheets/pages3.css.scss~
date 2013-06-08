@@ -1,3 +1,6 @@
+// Place all the styles related to the pages3 controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
 /*******BODYPOINT UI DEV GUIDE STANDARDS*******/
 
 body {
@@ -199,6 +202,23 @@ color: #333;
 	margin: 10px 0px 20px 30px;
 	position: relative;
 	border-radius: 5px;
+}
+
+.company_overview_section_2 {
+	background-color: green;
+	//height: 400px;
+}
+
+.company_overview_section_2 p.first-child {
+	//background-color: orange;
+	width: 380px;
+	float: left;
+}
+
+.company_overview_section_2 p {
+	//background-color: orange;
+	width: 380px;
+	float: right;
 }
 
 .company_overview h1 {
