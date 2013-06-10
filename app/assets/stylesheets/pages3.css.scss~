@@ -206,19 +206,27 @@ color: #333;
 
 .company_overview_section_2 {
 	background-color: green;
-	//height: 400px;
-}
-
-.company_overview_section_2 p.first-child {
-	//background-color: orange;
-	width: 380px;
 	float: left;
+	width: 400px;
+	height: 400px;
 }
 
 .company_overview_section_2 p {
-	//background-color: orange;
+	background-color: orange;
 	width: 380px;
-	float: left;
+	//float: left;
+	margin-right: 20px;
+}
+
+.company_overview_section_3 {
+	float:right;
+	background-color: yellow;
+	width: 400px;
+	height: 400px;
+}
+
+.company_overview_section_3 p {
+	background-color: orange;
 }
 
 .company_overview h1 {

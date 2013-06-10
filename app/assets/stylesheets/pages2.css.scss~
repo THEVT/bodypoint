@@ -206,6 +206,7 @@ color: #333;
 
 .company_overview h1 {
 	//background-color: green;
+++++++++++
 	//position: relative;
 	//width: 250px;
 	font-weight: bold;

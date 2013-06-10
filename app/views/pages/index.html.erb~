@@ -9,3 +9,11 @@
 	<li><%= link_to "Company Overview Version 2", company_overview_2_path %></li>
 	<li><%= link_to "Company Overview Version 3", company_overview_3_path %></li>
 </ul>
+
+<p>
+
+<h2>Company Culture Page</h2>
+
+<ul>
+	<li><%= link_to "Company Culture Version 1", company_culture_path %></li>
+</ul>
