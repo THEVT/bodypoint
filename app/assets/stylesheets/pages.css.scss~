@@ -246,6 +246,12 @@ color: #333;
 	margin-bottom: 15px;
 }
 
+.company_culture p{
+	//background-color: orange;
+	//margin-left: 10px;
+	//margin-right: 10px;
+}
+
 #comapny_culture_what_we_value{
 	//background-color: orange;
 	font-size: 25px;
@@ -342,7 +348,7 @@ color: #333;
 /*********OUR MANIFESTO**********/
 
 .our_manifesto {
-	background-color: orange;
+	//background-color: orange;
 	padding: 20px 70px;
 }
 
@@ -364,6 +370,24 @@ color: #333;
 .our_manifesto_paper img {
 	width: 225px;
 	height: auto;
-	margin: 40px 0px 40px 425px;
+	margin: 40px 0px 40px 54px;
+}
+
+.our_manifesto_signature img {
+	//background-color: orange;
+	margin: 40px 0px -10px 55px;
+}
+
+.our_manifesto_signature p {
+	position: relative;
+	//background-color: orange;
+	padding-left: 70px;
+	width: 165px;
+	float: left;
+}
+
+.our_manifesto_signature .matt_kosh{
+	width: 175px;
+	padding-left: 40px;
 }
 

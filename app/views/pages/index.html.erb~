@@ -17,3 +17,10 @@
 <ul>
 	<li><%= link_to "Company Culture Version 1", company_culture_path %></li>
 </ul>
+
+<h2>Our Manifesto Page</h2>
+
+<ul>
+	<li><%= link_to "Our Manifesto Version 1", our_manifesto_path %></li>
+	<li><%= link_to "Our Manifesto Version 1 PDF", "/Flynn_Ryan_Resume_Seattle_priv.pdf", :target => "_blank" %></li>
+</ul>
