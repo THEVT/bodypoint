@@ -3,7 +3,7 @@
 <div class="link_styles">
 
 	<div class="link_style_1">
-		<h2>Learn More</h2>
+		<h2>Learn More 1</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -14,7 +14,7 @@
 	</div>
 <p></p>
 	<div class="link_style_2">
-		<h2>Learn More</h2>
+		<h2>Learn More 2</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -25,7 +25,7 @@
 	</div>
 <p></p>
 	<div class="link_style_3">
-		<h2>Learn More</h2>
+		<h2>Learn More 3</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -36,7 +36,7 @@
 	</div>
 <p></p>
 	<div class="link_style_4">
-		<h2>Learn More</h2>
+		<h2>Learn More 4</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -47,7 +47,7 @@
 	</div>
 <p></p>
 	<div class="link_style_5">
-		<h2>Learn More</h2>
+		<h2>Learn More 5</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -58,7 +58,7 @@
 	</div>
 <p></p>
 	<div class="link_style_6">
-		<h2>Learn More</h2>
+		<h2>Learn More 6</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -69,7 +69,7 @@
 	</div>
 <p></p>
 	<div class="link_style_7">
-		<h2>Learn More</h2>
+		<h2>Learn More 7</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -80,7 +80,7 @@
 	</div>
 <p></p>
 	<div class="link_style_8">
-		<h2>Learn More</h2>
+		<h2>Learn More 8</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -91,7 +91,7 @@
 	</div>
 <p></p>
 	<div class="link_style_9">
-		<h2>Learn More</h2>
+		<h2>Learn More 9</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -102,7 +102,7 @@
 	</div>
 <p></p>
 	<div class="link_style_10">
-		<h2>Learn More</h2>
+		<h2>Learn More 10</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
@@ -113,7 +113,53 @@
 	</div>
 <p></p>
 	<div class="link_style_11">
-		<h2>Learn More</h2>
+		<h2>Learn More 11</h2>
+		<ul>
+			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
+			<li><a href="#">Find out what drives our innovation.</a></li>
+			<li><a href="#">Discover what makes us...us.</a></li>
+			<li><a href="#">Coding complexities -- learn about our philosophy.</a></li>
+		</ul>
+
+	</div>
+<p></p>
+	<div class="link_style_12">
+		<h2>Learn More 12</h2>
+		<ul>
+			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
+			<li><a href="#">Find out what drives our innovation.</a></li>
+			<li><a href="#">Discover what makes us...us.</a></li>
+			<li><a href="#">Coding complexities -- learn about our philosophy.</a></li>
+		</ul>
+
+	</div>
+<p></p>
+	<div class="link_style_13">
+		<h2>Learn More 13</h2>
+		<ul>
+			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
+			<li><a href="#">Find out what drives our innovation.</a></li>
+			<li><a href="#">Discover what makes us...us.</a></li>
+			<li><a href="#">Coding complexities -- learn about our philosophy.</a></li>
+		</ul>
+
+	</div>
+<p></p>
+	<div class="link_style_14">
+		<h2>Learn More 14</h2>
+		<p> *I don't think I like the way those colors on the shape came out but it may help spark another idea</p
+		<ul>
+			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
+			<li><a href="#">Find out what drives our innovation.</a></li>
+			<li><a href="#">Discover what makes us...us.</a></li>
+			<li><a href="#">Coding complexities -- learn about our philosophy.</a></li>
+		</ul>
+
+	</div>
+<p></p>
+<div class="link_style_15">
+		<h2>Learn More 15</h2>
+		<p> *I don't think I like the way those colors on the shape came out but it may help spark another idea</p>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
 			<li><a href="#">Find out what drives our innovation.</a></li>
