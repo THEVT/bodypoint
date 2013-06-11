@@ -6,7 +6,9 @@ Bodypoint::Application.routes.draw do
 	match '/company_overview_2', to: 'pages2#company_overview_2'
 	match '/company_overview_3', to: 'pages3#company_overview_3'
 	match '/company_culture', to: 'pages#company_culture'
+	match '/company_culture_2', to: 'pages2#company_culture_2'
 	match '/our_manifesto', to: 'pages#our_manifesto'
+	match '/link_styles', to: 'pages#link_styles'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

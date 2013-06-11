@@ -179,15 +179,26 @@ color: #333;
 
 /********Company overview*****///////
 
+.company_overview_3_background {
+	width: 1100px;
+	margin: 0px auto;
+	background-image: url(/assets/iStock_000014855442_375.jpg);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
 .design_framework {
 	width: 940px;
 	margin: 0px auto;
 	//background-color: yellow;
 }
 
-.company_overview {
+.company_overview_3 {
 	//background-color: orange;
 	padding: 20px 70px;
+}
+
+.company_overview_3_top {
+
 }
 
 #basketball_img {
@@ -206,41 +217,16 @@ color: #333;
 	border-radius: 5px;
 }
 
-.company_overview_section_2 {
-	background-color: green;
-	float: left;
-	width: 400px;
-	height: 400px;
-}
-
-.company_overview_section_2 p {
-	background-color: orange;
-	width: 380px;
-	//float: left;
-	margin-right: 20px;
-}
-
-.company_overview_section_3 {
-	float:right;
-	background-color: yellow;
-	width: 400px;
-	height: 400px;
-}
-
-.company_overview_section_3 p {
-	background-color: orange;
-}
-
-.company_overview h1 {
+.company_overview_3 h1 {
 	//background-color: green;
 	//position: relative;
 	//width: 250px;
 	font-weight: bold;
-	margin: 25px 0px 30px 260px;
+	margin: 25px 0px 30px 330px;
 	//float: right;
 }
 
-.company_overview h3 {
+.company_overview_3 h3 {
 	//background-color: red;
 	line-height: 20px;
 	float: right;
@@ -248,18 +234,36 @@ color: #333;
 	margin: 30px 220px 0px 0px
 }
 
-#company_overview_qoute {
+#company_overview_3_qoute {
 	//background-color: pink;
 	font-style: italic;
 	//position: relative;
 	width: 350px;
-	margin: 25px 0px 70px 260px;
+	margin: 25px 0px 110px 330px;
 	//float: left;
 }
 
-.company_overview p {
+.company_overview_3 p {
 	//padding: 0px 10px;
 	margin-bottom: 15px;
+}
+
+.company_overview_3 ul {
+	margin-left: -15px;
+	list-style: none;
+	//list-style-image: url('/assets/bp_icon_28.png');
+}
+
+.company_overview_3 li {
+	font-size: 125%;
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+
+.company_overview_3 li {
+	//font-size: 125%;
+	//color: #fe7300;
 }
 
 /**************COMPANY CULTURE*******/

@@ -177,15 +177,28 @@ color: #333;
 
 /********CSS FRAMING******/
 
+/*********COMPANY CULTURE******/
+
+.company_overview_2_background {
+	width: 1100px;
+	margin: 0px auto;
+	background-image: url(/assets/iStock_000014855442_375.jpg);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
 .design_framework {
 	width: 940px;
 	margin: 0px auto;
 	//background-color: yellow;
 }
 
-.company_overview {
+.company_overview_2 {
 	//background-color: orange;
 	padding: 20px 70px;
+}
+
+.company_overview_2_top {
+
 }
 
 #basketball_img {
@@ -204,16 +217,24 @@ color: #333;
 	border-radius: 5px;
 }
 
-.company_overview h1 {
+.company_overview_2 h1 {
 	//background-color: green;
 	//position: relative;
 	//width: 250px;
 	font-weight: bold;
-	margin: 25px 0px 30px 260px;
+	margin: 25px 0px 30px 330px;
 	//float: right;
 }
 
-.company_overview h3 {
+.company_overview_2 h2 {
+	//background-color: green;
+	//position: relative;
+	//width: 250px;
+	//margin: 100px 0px 30px 330px;
+	//float: right;
+}
+
+.company_overview_2 h3 {
 	//background-color: red;
 	line-height: 20px;
 	float: right;
@@ -221,65 +242,104 @@ color: #333;
 	margin: 30px 220px 0px 0px
 }
 
-#company_overview_qoute {
+#company_overview_2_qoute {
 	//background-color: pink;
 	font-style: italic;
 	//position: relative;
 	width: 350px;
-	margin: 25px 0px 70px 260px;
+	margin: 25px 0px 110px 330px;
 	//float: left;
 }
 
-#company_overview_2 p{
-	padding: 0px 10px;
-
-}
-
-.company_overview p {
+.company_overview_2 p {
 	//padding: 0px 10px;
 	margin-bottom: 15px;
 }
 
-/*******Company culture ********/
-
-.company_culture {
-	padding: 20px 70px;
-}
-
-.company_culture h1{
+.company_overview_2_mid p {
+	width: 380px;
+	height: 200px;
+	float: left;
+	padding: 0px 7px;
 	margin-bottom: 15px;
 }
 
-.company_culture p{
+/*
+.company_overview_2 ul {
+	margin-left: -15px;
+	list-style: none;
+	//list-style-image: url('/assets/bp_icon_28.png');
 }
 
-#comapny_culture_what_we_value{
+.company_overview_2 li {
+	font-size: 125%;
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+*/
+.company_overview_2 li {
+	font-size: 125%;
+	//color: #fe7300;
+}
+
+/*******Company culture ********/
+
+.company_culture_2_background {
+	width: 1100px;
+	margin: 0px auto;
+	background-image: url(/assets/GettyImages_94474543_EDIT_375.jpg);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
+
+.company_culture_2 {
+	padding: 20px 70px;
+	
+}
+
+.company_culture_2 h1{
+	margin: 60px 0px 280px 0px;
+	font-weight: bold;
+	
+}
+
+.company_culture_2 p{
+}
+
+#comapny_culture_2_what_we_value{
 	font-size: 25px;
 	margin: 25px 0px;
 }
 
-.company_culture_box {
+.company_culture_2 li {
+	font-size: 125%;
+	//color: #fe7300;
+}
+
+/*
+.company_culture_2_box {
 	height: 630px;
 }
 
-.company_culture_box p{
+.company_culture_2_box p{
 	width: 250px;
 }
 
-.company_culture_box img {
+.company_culture_2_box img {
 	position: absolute;
 	width: 400px;
 	height: auto;
 	margin: 170px 0px 0px 200px;
 }
 
-.positionCenter {
+.positionCenter_2 {
 	position: absolute;
 	padding: 0px;
 	margin: 244px 0px 0px 275px;
 }
 
-.positionTopLeft {
+.positionTopLeft_2 {
 	width: 400px;
 	height: 300px;
 	background-image: url(/assets/BoxGreen.png);
@@ -287,12 +347,12 @@ color: #333;
 	position: absolute;
 }
 
-.positionTopLeft p{
+.positionTopLeft_2 p{
 	padding-top: 30px;
 	padding-left: 40px;
 }
 
-.positionTopRight {
+.positionTopRight_2 {
 	width: 400px;
 	background-image: url(/assets/BoxTeal.png);
 	background-repeat: no-repeat;
@@ -301,13 +361,13 @@ color: #333;
 	height: 300px;
 }
 
-.positionTopRight p{
+.positionTopRight_2 p{
 	float: right;
 	padding-top: 30px;
 	padding-right: 40px;
 }
 
-.positionBottomLeft {
+.positionBottomLeft_2 {
 	width: 400px;
 	background-image: url(/assets/BoxOrange.png);
 	background-repeat: no-repeat;
@@ -316,12 +376,12 @@ color: #333;
 	height: 300px;
 }
 
-.positionBottomLeft p{
+.positionBottomLeft_2 p{
 	padding-top: 140px;
 	padding-left: 40px;
 }
 
-.positionBottomRight {
+.positionBottomRight_2 {
 	width: 400px;
 	background-image: url(/assets/BoxGrey.png);
 	background-repeat: no-repeat;
@@ -331,14 +391,14 @@ color: #333;
 	height: 300px;
 }
 
-.positionBottomRight p{
+.positionBottomRight_2 p{
 	float: right;
 	padding-top: 140px;
 	padding-right: 40px;
 }
-
+*/
 /*********OUR MANIFESTO**********/
-
+/*
 .our_manifesto {
 	padding: 20px 70px;
 }
@@ -362,5 +422,5 @@ color: #333;
 	width: 225px;
 	height: auto;
 	margin: 40px 0px 40px 425px;
-}
+}*/
 

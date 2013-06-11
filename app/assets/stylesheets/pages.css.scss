@@ -174,6 +174,129 @@ color: #333;
 
 /********CSS FRAMING******/
 
+.navigation {
+	width: 1100px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.footer {
+	width: 1100px;
+	margin: 0px auto;
+	padding: 0px;
+}
+
+.index {
+	width: 1100px;
+	margin: 0px auto;
+	padding: 60px 0px;
+}
+
+/*******LINK STYLES*************/
+
+.link_styles ul {
+		padding: 20px 0px;
+}
+
+.link_styles h2 {
+	margin: 15px 0px 15px -25px;
+}
+
+.link_style_1 {
+
+}
+
+.link_style_2 ul {
+	margin-left: -15px;
+	list-style: none;
+	//list-style-image: url('/assets/bp_icon_28.png');
+}
+
+.link_style_2 li {
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+
+.link_style_3 li {
+	color: #fe7300;
+}
+
+.link_style_4 a {
+	color: #fe7300;
+}
+
+.link_style_5 li {
+	color: #fe7300;
+}
+
+.link_style_5 a {
+	color: #fe7300;
+}
+
+.link_style_6 ul {
+	margin-left: -15px;
+	list-style: none;
+}
+
+.link_style_6 li {
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+
+.link_style_6 a {
+	color: #fe7300;
+}
+
+.link_style_7 ul {
+	list-style: none;
+}
+
+.link_style_7 li:before {
+   content: "•";
+   font-size: 180%; /* or whatever */
+   padding-right: 5px;
+}
+
+.link_style_8 li {
+	font-size: 125%;
+}
+
+.link_style_9 ul {
+	margin-left: -15px;
+	list-style: none;
+}
+
+.link_style_9 li {
+	font-size: 125%;
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+
+.link_style_9 a {
+	color: #fe7300;
+}
+
+.link_style_10 ul {
+	margin-left: -15px;
+	list-style: none;
+	//list-style-image: url('/assets/bp_icon_28.png');
+}
+
+.link_style_10 li {
+	font-size: 125%;
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+
+.link_style_11 li {
+	font-size: 125%;
+	color: #fe7300;
+}
+
 /*****company overview**********/
 
 .design_framework {
@@ -349,7 +472,7 @@ color: #333;
 
 .our_manifesto {
 	//background-color: orange;
-	padding: 20px 70px;
+	padding: 60px 70px;
 }
 
 .our_manifesto_paper {

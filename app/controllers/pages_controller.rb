@@ -12,5 +12,9 @@ class PagesController < ApplicationController
 
 	end
 
+	def link_styles
+
+	end
+
 
 end

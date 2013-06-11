@@ -4,4 +4,8 @@ class Pages2Controller < ApplicationController
 
 	end
 
+	def company_culture_2
+
+	end
+
 end
