@@ -16,5 +16,9 @@ class PagesController < ApplicationController
 
 	end
 
+	def timeline
+
+	end
+
 
 end

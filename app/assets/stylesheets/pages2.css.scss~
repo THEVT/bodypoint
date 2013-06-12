@@ -182,7 +182,7 @@ color: #333;
 .company_overview_2_background {
 	width: 1100px;
 	margin: 0px auto;
-	background-image: url(/assets/iStock_000014855442_375.jpg);
+	background-image: url(/assets/iStock_000014855442_Large_500-2.png);
 	background-repeat: no-repeat;
 	//background-color: yellow;
 }
@@ -208,9 +208,9 @@ color: #333;
 	float: left;
 }
 
-#ml100award_img {
+#ml100award_img_2 {
 	//background-color: green;
-	width: 225px;
+	width: 180px;
 	height: auto;
 	margin: 10px 0px 20px 30px;
 	position: relative;
@@ -239,7 +239,7 @@ color: #333;
 	line-height: 20px;
 	float: right;
 	width: 300px;
-	margin: 30px 220px 0px 0px
+	margin: 20px 260px 0px 0px
 }
 
 #company_overview_2_qoute {
@@ -247,7 +247,7 @@ color: #333;
 	font-style: italic;
 	//position: relative;
 	width: 350px;
-	margin: 25px 0px 110px 330px;
+	margin: 25px 0px 250px 330px;
 	//float: left;
 }
 
