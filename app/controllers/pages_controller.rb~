@@ -20,5 +20,8 @@ class PagesController < ApplicationController
 
 	end
 
+	def whatcanbpdoforme_dealer
+
+	end
 
 end

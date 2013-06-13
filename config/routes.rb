@@ -10,6 +10,9 @@ Bodypoint::Application.routes.draw do
 	match '/our_manifesto', to: 'pages#our_manifesto'
 	match '/link_styles', to: 'pages#link_styles'
 	match '/timeline', to: 'pages#timeline'
+	match '/whatcanbpdoforme_dealer', to: 'pages#whatcanbpdoforme_dealer'
+	match '/whatcanbpdoforme_therapist', to: 'pages#whatcanbpdoforme_therapist'
+	match '/whatcanbpdoforme_wheelchair_user', to: 'pages#whatcanbpdoforme_wheelchair_user'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

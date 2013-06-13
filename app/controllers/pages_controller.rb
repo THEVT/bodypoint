@@ -20,5 +20,15 @@ class PagesController < ApplicationController
 
 	end
 
+	def whatcanbpdoforme_dealer
 
+	end
+
+	def whatcanbpdoforme_therapist
+
+	end
+
+	def whatcanbpdoforme_wheelchair_user
+
+	end
 end
