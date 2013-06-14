@@ -8,4 +8,12 @@ class Pages2Controller < ApplicationController
 
 	end
 
+	def company_culture_940
+
+	end
+
+	def timeline_2
+
+	end
+
 end

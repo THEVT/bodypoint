@@ -12,16 +12,19 @@
 	<li><%= link_to "Company Overview Version 2 PDF", "/Company_Overview_v2_Flynn.pdf", :target => "_blank" %></li>
 	<li><%= link_to "Company Overview Version 3", company_overview_3_path %></li>
 	<li><%= link_to "Company Overview Version 3 PDF", "/Company_Overview_v3_Flynn.pdf", :target => "_blank" %></li>
+	<li><%= link_to "Company Overview Version 940", company_overview_940_path %></li>
+	<li><%= link_to "Company Culture Version 940 PDF", "/Company_Oveview_940_Flynn.pdf", :target => "_blank" %></li>
 </ul>
 
 <p>
 
 <h2>Company Culture Page</h2>
-
 <ul>
 	<li><%= link_to "Company Culture Version 1", company_culture_path %></li>
 	<li><%= link_to "Company Culture Version 2", company_culture_2_path %></li>
 	<li><%= link_to "Company Culture Version 2 PDF", "/Company_Culture_v2_Flynn.pdf", :target => "_blank" %></li>
+	<li><%= link_to "Company Culture Version 940", company_culture_940_path %></li>
+	<li><%= link_to "Company Culture Version 940 PDF", "/Company_Culture_940_Flynn.pdf", :target => "_blank" %></li>
 </ul>
 
 <h2>Our Manifesto Page</h2>
@@ -43,8 +46,9 @@
 <ul>
 	<li><%= link_to "Timeline", timeline_path %></li>
 	<li><%= link_to "Timeline PDF", "/timeline_v1_Flynn.pdf", :target => "_blank" %></li>
+	<li><%= link_to "Timeline_2", timeline_2_path %></li>
+	<li><%= link_to "Timeline_2 PDF", "/timeline_v2_Flynn.pdf", :target => "_blank" %></li>
 </ul>
-whatcanbpdoforme_dealer
 
 <h2>What Can BP do for you Page</h2>
 

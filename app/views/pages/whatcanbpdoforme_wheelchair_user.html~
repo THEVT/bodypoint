@@ -1,6 +1,10 @@
+<div class="whatcanbpdoforme_wheelchair_background">
+
 <div class="design_framework">
 
 <div class="whatcanbpdoforme_page">
+
+	<p class="photo_place_holder">*Photo Place Holder<p>
 
 	<h1>Positioning Products<br> That People Love</h1>
 	
@@ -16,19 +20,23 @@
 		<li>Product instructions in multiple languages</li>
 		<li>Information and guidelines on attachment options</li>
 		<li>Accurate sizing guides</li>
-		<li>User case studies and testimonials</li>
+		<li>User case studies and success stories</li>
 	</ul>
+	<div class= "whatcanbpdoforme_bottom">
 
-	<p>Interested in becoming a dealer? Start by opening an account with us today. Contact us</p>
+		<h3>Learn More</h3>
 
-	<h3>Learn More</h3>
+		<ul>
+			<li><a href="#">Learn more about wheelchair positioning.</a></li>
+			<li><a href="#">Explore Bodypoint products.</a></li>
+			<li><a href="#">Find out how to buy.</a></li>
+		</ul>
+	
+	</div>
 
-	<ul>
-		<li><a href="#">Learn more about wheelchair positioning.</a></li>
-		<li><a href="#">Explore Bodypoint products.</a></li>
-		<li><a href="#">Find out how to buy.</a></li>
-	</ul>
+	<div class="fb-like" data-href="https://www.facebook.com/BodypointInc" data-send="false" data-width="400" data-show-faces="true" data-font="tahoma"></div>
 
+</div>
 
 </div>
 

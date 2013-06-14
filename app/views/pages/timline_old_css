@@ -1,0 +1,307 @@
+.timeline_page {
+	background-color: #d7d7d7;
+	//padding-bottom: 5px;
+	border-radius: 8px;
+}
+
+.timeline_page h1 {
+	//background-color: red;
+	margin: 40px 0px 20px 0px;
+	padding: 20px;
+	font-weight: bold;
+	//text-decoration: underline;
+	//border-bottom: solid;
+	width: 326px;
+}
+
+.timeline_page h2 {
+	//background-color: orange;
+	//padding: 60px 70px;
+	margin: 15px auto;
+	font-size: 205%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.timeline_page h3 {
+	//background-color: orange;
+	//padding: 60px 70px;
+	margin: 15px auto;
+	font-size: 120%;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.timeline {
+	background-color: #e3e3e3;//#d7d7d7;
+	padding: 20px 0px;
+	height: 1260px;
+	//border-radius: 8px;
+}
+
+.timeline p {
+	width: 250px;
+}
+
+.timeline span {
+	font-weight: bold;
+	//border-bottom: solid;
+}
+
+.timeline img {
+	position: absolute;
+	border-radius: 7px;
+}
+
+.timeline_left {
+	//background-color: red;
+	width: 468px;
+	height: 1260px;
+	float: left;
+}
+
+.timeline_center {
+	background-color: #000;
+	width: 5px;
+	height: 1260px;
+	float: left;
+}
+
+.timeline_right {
+	//background-color: yellow;
+	width: 467px;
+	height: 1260px;
+	float: left;
+}
+
+.t1994 {
+	padding: 0px 0px 0px 175px;
+}
+.t1995 {
+	padding: 60px 0px 0px 125px;
+}
+
+.t1996 {
+	font-size: 150%;
+	padding: 20px 0px 0px 25px;
+	font-weight: bold;
+}
+.t1996 p{
+	font-size: 16px;
+}
+
+.t2001_tri {
+	padding: 40px 0px 0px 125px;
+}
+.t2001_tri span {
+	
+}
+
+
+.t2001_ful {
+	padding: 75px 0px 0px 70px;
+}
+
+.t2003 {
+	font-size: 150%;
+	padding: 30px 0px 0px 200px;
+	font-weight: bold;
+}
+.t2003 p {
+	font-size: 16px;
+}
+
+.t2004 {
+	padding: 30px 0px 0px 90px;
+}
+
+.t2005 {
+	font-size: 150%;
+	padding: 20px 0px 0px 25px;
+	font-weight: bold;
+}
+.t2005 p {
+	font-size: 16px;
+}
+
+
+.t2007 {
+	padding: 30px 0px 0px 100px;
+}
+.t2008 {
+	padding: 30px 0px 0px 55px;
+}
+
+.t2010 {
+	font-size: 150%;
+	padding: 40px 0px 0px 180px;
+	font-weight: bold;
+}
+.t2010 p {
+	font-size: 16px;
+}
+
+
+.t2011 {
+	font-size: 150%;
+	padding: 20px 0px 0px 80px;
+	font-weight: bold;
+}
+.t2011 p {
+	//font-size: 15px;
+}
+
+.t2013 {
+	padding: 30px 0px 0px 25px;
+	font-weight: bold;
+	font-size: 150%;
+}
+.t2013 p {
+	font-size: 16px;
+}
+
+#ankle_huggers {
+	width: 150px;
+	height: auto;
+	margin: 130px 0px 0px 295px;
+}
+
+#stayflex_chest {
+	width: 150px;
+	height: auto;
+	margin: 610px 0px 0px 280px;
+}
+
+#evoflex_pelvic_stab {
+	width: 280px;
+	height: auto;
+	margin: 1100px 0px 0px 65px;
+}
+
+#cinch_mount {
+	width: 150px;
+	height: auto;
+	margin: 360px 0px 0px 30px;
+}
+
+#push_button {
+	width: 150px;
+	height: auto;
+	margin: 850px 0px 0px 10px;
+}
+
+#pivot_fit {
+	width: 150px;
+	height: auto;
+	margin: 1020px 0px 0px 290px;
+}
+
+#clickit {
+	width: 90px;
+	height: auto;
+	margin: 45px 0px 0px 20px;
+}
+
+.t1994_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 45px 0px 0px 458px;
+	position: absolute;
+}
+.t1995_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 90px 0px 0px 0px;
+	position: absolute;
+}
+
+.t1996_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 200px 0px 0px 458px;
+	position: absolute;
+}
+
+.t2001_tri_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 380px 0px 0px 458px;
+	position: absolute;	
+}
+
+.t2001_ful_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 265px 0px 0px 0px;
+	position: absolute;	
+}
+
+.t2003_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 445px 0px 0px 0px;
+	position: absolute;
+}
+
+.t2004_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 540px 0px 0px 458px;
+	position: absolute;
+}
+
+.t2005_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 660px 0px 0px 0px;
+	position: absolute;
+}
+
+
+.t2007_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 700px 0px 0px 458px;
+	position: absolute;	
+}
+.t2008_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 840px 0px 0px 0px;
+	position: absolute;	
+}
+
+.t2010_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 890px 0px 0px 458px;
+	position: absolute;	
+}
+
+.t2011_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 1000px 0px 0px 0px;
+	position: absolute;
+}
+
+.t2013_l {
+	background-color: #000;
+	width: 10px;
+	height: 5px;
+	margin: 1110px 0px 0px 458px;
+	position: absolute;
+}

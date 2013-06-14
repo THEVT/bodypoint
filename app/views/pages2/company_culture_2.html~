@@ -4,6 +4,8 @@
 
 <div class="company_culture_2">
 
+	<p class="photo_place_holder">*Photo Place Holder<p>
+
 	<h1>We&#39re a little different</h1>
 
 
@@ -54,11 +56,8 @@
 
 	<ul>
 		<li><a href="#">It&#39s not about us, it&#39s about the users -- hear about some of their success stories.</a></li>
-		<li><a href="#">View customer testimonials</a></li>
 		<li><a href="#">Find out more about Bodypoint on our Company Overview page.</a></li>
 		<li><a href="#">Learn more about what drives us, visit our Manifesto page.</a></li>
-		<li><a href="#">Discover what makes us...us.</a></li>
-		<li><a href="#">Coding complexities -- learn about our philosophy.</a></li>
 	</ul>
 
 

@@ -177,7 +177,7 @@ color: #333;
 
 /********CSS FRAMING******/
 
-/*********COMPANY CULTURE******/
+/*********COMPANY Overview******/
 
 .company_overview_2_background {
 	width: 1100px;
@@ -279,6 +279,126 @@ color: #333;
 }
 */
 .company_overview_2 li {
+	font-size: 125%;
+	//color: #fe7300;
+}
+
+/*CompanyOverview 940*********************************/
+
+.company_overview_940_background {
+	width: 1100px;
+	margin: 0px auto;
+	background-image: url(/assets/iStock_000014855442_Large_500-2.png);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
+.design_framework {
+	width: 940px;
+	margin: 0px auto;
+	//background-color: yellow;
+}
+
+.company_overview_940 {
+	//background-color: orange;
+	padding: 20px 0px;
+}
+
+.company_overview_940 p {
+	//background-color: orange;
+	width: 850px;
+}
+
+.company_overview_940_top {
+
+}
+
+#basketball_img {
+	position: relative;
+	border-radius: 5px;
+	//margin-left: 10px;
+	float: left;
+}
+
+#ml100award_img_2 {
+	//background-color: green;
+	width: 180px;
+	height: auto;
+	margin: 10px 0px 20px 30px;
+	position: relative;
+	border-radius: 5px;
+}
+
+.company_overview_940 h1 {
+	//background-color: green;
+	//position: relative;
+	//width: 250px;
+	font-weight: bold;
+	margin: 25px 0px 30px 390px;
+	//float: right;
+}
+
+.company_overview_940 h2 {
+	//background-color: green;
+	//position: relative;
+	//width: 250px;
+	//margin: 100px 0px 30px 330px;
+	//float: right;
+}
+
+.company_overview_940 h3 {
+	//background-color: red;
+	line-height: 20px;
+	float: right;
+	width: 300px;
+	margin: 20px 410px 0px 0px
+}
+
+#company_overview_940_qoute {
+	//background-color: pink;
+	font-style: italic;
+	//position: relative;
+	width: 350px;
+	margin: 25px 0px 250px 390px;
+	//float: left;
+}
+
+.company_overview_940 p {
+	//padding: 0px 10px;
+	margin-bottom: 15px;
+}
+
+.company_overview_940_mid p {
+	width: 455px;
+	height: 200px;
+	float: left;
+	padding: 0px 0px;
+	margin: 0px 15px 0px 0px;
+}
+
+.company_overview_940_lower p {
+	//width: 860px;
+}
+/*
+.company_overview_940_lower h3 {
+	width: 330px;
+	float: right;
+}
+*/
+/*
+.company_overview_940 ul {
+	margin-left: -15px;
+	list-style: none;
+	//list-style-image: url('/assets/bp_icon_28.png');
+}
+
+.company_overview_940 li {
+	font-size: 125%;
+	background: url('/assets/bp_icon_28.png') left center;
+	background-repeat: no-repeat;
+	padding: 6px 33px;
+}
+*/
+.company_overview_940 li {
 	font-size: 125%;
 	//color: #fe7300;
 }
@@ -397,6 +517,123 @@ color: #333;
 	padding-right: 40px;
 }
 */
+
+/**Culture 940 ***/
+
+.company_culture_940_background {
+	width: 1100px;
+	margin: 0px auto;
+	background-image: url(/assets/GettyImages_94474543_EDIT_375.jpg);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
+
+.company_culture_940 {
+	padding: 20px 0px;
+	
+}
+
+.company_culture_940 h1{
+	margin: 60px 0px 280px 0px;
+	font-weight: bold;
+	
+}
+
+.company_culture_940 p{
+	width: 860px;
+}
+
+#comapny_culture_2_what_we_value{
+	font-size: 25px;
+	margin: 25px 0px;
+}
+
+.company_culture_940 li {
+	font-size: 125%;
+	//color: #fe7300;
+}
+
+/*
+.company_culture_940_box {
+	height: 630px;
+}
+
+.company_culture_940_box p{
+	width: 250px;
+}
+
+.company_culture_940_box img {
+	position: absolute;
+	width: 400px;
+	height: auto;
+	margin: 170px 0px 0px 200px;
+}
+
+.positionCenter_2 {
+	position: absolute;
+	padding: 0px;
+	margin: 244px 0px 0px 275px;
+}
+
+.positionTopLeft_2 {
+	width: 400px;
+	height: 300px;
+	background-image: url(/assets/BoxGreen.png);
+	background-repeat: no-repeat;
+	position: absolute;
+}
+
+.positionTopLeft_2 p{
+	padding-top: 30px;
+	padding-left: 40px;
+}
+
+.positionTopRight_2 {
+	width: 400px;
+	background-image: url(/assets/BoxTeal.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	margin-left: 400px;
+	height: 300px;
+}
+
+.positionTopRight_2 p{
+	float: right;
+	padding-top: 30px;
+	padding-right: 40px;
+}
+
+.positionBottomLeft_2 {
+	width: 400px;
+	background-image: url(/assets/BoxOrange.png);
+	background-repeat: no-repeat;
+	margin-top:300px;
+	position: absolute;
+	height: 300px;
+}
+
+.positionBottomLeft_2 p{
+	padding-top: 140px;
+	padding-left: 40px;
+}
+
+.positionBottomRight_2 {
+	width: 400px;
+	background-image: url(/assets/BoxGrey.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	margin: 300px 0px 0px 400px;
+	float: left;
+	height: 300px;
+}
+
+.positionBottomRight_2 p{
+	float: right;
+	padding-top: 140px;
+	padding-right: 40px;
+}
+*/
+
 /*********OUR MANIFESTO**********/
 /*
 .our_manifesto {
@@ -423,4 +660,8 @@ color: #333;
 	height: auto;
 	margin: 40px 0px 40px 425px;
 }*/
+
+/*****TIMELINE*****/
+
+
 
