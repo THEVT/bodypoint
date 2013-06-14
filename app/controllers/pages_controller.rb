@@ -31,4 +31,8 @@ class PagesController < ApplicationController
 	def whatcanbpdoforme_wheelchair_user
 
 	end
+	
+	def images
+
+	end
 end

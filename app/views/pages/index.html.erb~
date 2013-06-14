@@ -46,8 +46,6 @@
 <ul>
 	<li><%= link_to "Timeline", timeline_path %></li>
 	<li><%= link_to "Timeline PDF", "/timeline_v1_Flynn.pdf", :target => "_blank" %></li>
-	<li><%= link_to "Timeline_2", timeline_2_path %></li>
-	<li><%= link_to "Timeline_2 PDF", "/timeline_v2_Flynn.pdf", :target => "_blank" %></li>
 </ul>
 
 <h2>What Can BP do for you Page</h2>
