@@ -23,17 +23,22 @@
 		<li>Product education to support your sales efforts</li>
 	</ul>
 
-	<p>Interested in becoming a dealer? Start by opening an account with us today. Contact us</p>
-
-	<h3>Learn More</h3>
-
-	<ul>
-		<li><a href="#">Learn more about wheelchair positioning.</a></li>
-		<li><a href="#">Explore Bodypoint products.</a></li>
-		<li><a href="#">Find out how to buy.</a></li>
-	</ul>
-
-
+	<p>Interested in becoming a dealer? Start by <a href="#">opening an account</a> with us today.</p>
+	
 </div>
+
+	<div id="link_style_21">
+
+		<h2>Learn More</h2>
+
+		<ul>
+			<li><a href="#">Learn more about wheelchair positioning.</a></li>
+			<li><a href="#">Explore Bodypoint products.</a></li>
+			<li><a href="#">Find out how to buy.</a></li>
+		</ul>
+
+	</div>
+
+	<div class="fb-like" data-href="https://www.facebook.com/BodypointInc" data-send="false" data-width="400" data-show-faces="true" data-font="tahoma"></div>
 
 </div>

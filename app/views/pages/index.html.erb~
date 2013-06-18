@@ -4,6 +4,11 @@
 
 <p>
 
+<h2>Images</h2>
+<ul>
+	<li><%= link_to "Images", images_path %></li>
+</ul>
+
 <h2>Company Overview Page</h2>
 
 <ul>
@@ -52,12 +57,55 @@
 
 <ul>
 	<li><%= link_to "Dealer", whatcanbpdoforme_dealer_path %></li>
-	<li><%= link_to "Dealer PDF", "/whatcanbpdoforme_dealer_v1_Flynn.pdf", :target => "_blank" %></li>
+	<li><%= link_to "Dealer PDF", "/whatcanbpdoforme_dealer_image_sample_Flynn.pdf", :target => "_blank" %></li>
 	<li><%= link_to "Therapists", whatcanbpdoforme_therapist_path %></li>
 	<li><%= link_to "Therapists PDF", "/whatcanbpdoforme_therapist_v1_Flynn.pdf", :target => "_blank" %></li>
 	<li><%= link_to "Wheel Chair Users", whatcanbpdoforme_wheelchair_user_path %></li>
 	<li><%= link_to "Wheel Chair Users PDF", "/whatcanbpdoforme_wheelchair_user_v1_Flynn.pdf", :target => "_blank" %></li>
 </ul>
+
+<h2>How To Buy</h2>
+
+<ul>
+	<li><%= link_to "How To Buy", how_to_buy_path %></li>
+	<li><%= link_to "How To Buy PDF", "/how_to_buy_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
+<h2>Partner Center</h2>
+
+<ul>
+	<li><%= link_to "How to become a Partner", how_to_become_a_partner_path %></li>
+	<li><%= link_to "How to become a Partner PDF", "/how_to_become_a_partner_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
+<h2>Privacy Policy</h2>
+
+<ul>
+	<li><%= link_to "Privacy Policy", privacy_policy_path %></li>
+	<li><%= link_to "Privacy Policy PDF", "/privacy_policy_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
+<h2>Wheelchair Positioning</h2>
+
+<ul>
+	<li><%= link_to "Wheelchair Positioning", wheelchair_positioning_path %></li>
+	<li><%= link_to "Wheelchair Positioning PDF", "/wheelchair_positioning_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
+<h2>Why Positioning Matters</h2>
+
+<ul>
+	<li><%= link_to "Why Positioning Matters", why_positioning_matters_path %></li>
+	<li><%= link_to "Why Positioning Matters PDF", "/why_positioning_matters_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
+<h2>Terms and Conditions</h2>
+
+<ul>
+	<li><%= link_to "Terms and Conditions", terms_and_conditions_path %></li>
+	<li><%= link_to "Terms and Conditions PDF", "/why_positioning_matters_Flynn.pdf", :target => "_blank" %></li>
+</ul>
+
 </div>
 
 </div>

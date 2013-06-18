@@ -18,21 +18,25 @@
 
 	<h2>We&#39re proud of what we do</h2>
 
-	<p>We make products that are a part of people&#39s everyday lives so we understand how important it is to make them extraordinary. We appreciate the recognition we receive and work hard every day to be worthy of it.</p>
+	<div class="company_overview_940_lower">
 
-	<a href="#"><img src="/assets/ml100award.jpg" alt="ML100Award" id="ml100award_img_2"></a>
-<!--
-	<ul>
-		<li><a href="#">Bodypoint Inc. receives Manufacturing Leadership <br>award for Information Leadership with its ERP integration.</a></li>
-	</ul>
--->
-	<h3><a href="#">Bodypoint Inc. receives Manufacturing Leadership award for Information Leadership with its ERP integration.</a></h3>
+		<p>We make products that are a part of people&#39s everyday lives so we understand how important it is to make them extraordinary. We appreciate the recognition we receive and work hard every day to be worthy of it.</p>
+
+		<a href="#"><img src="/assets/ml100award.jpg" alt="ML100Award" id="ml100award_img_2"></a>
+	<!--
+		<ul>
+			<li><a href="#">Bodypoint Inc. receives Manufacturing Leadership <br>award for Information Leadership with its ERP integration.</a></li>
+		</ul>
+	-->
+		<h3><a href="#">Bodypoint Inc. receives Manufacturing Leadership award for Information Leadership with its ERP integration.</a></h3>
+
+	</div>
 
 	<h2 >Nothing says ingenuity like being first</h2>
 
 	<p>We&#39re passionate about solving problems in new ways -- in fact, we have numerous patents to prove it. Take a look at our remarkable legacy of innovation. And just imagine what the future will bring. Click here to view our Innovation Timeline</p>
 
-	<div class="link_style_18">
+	<div id="link_style_21">
 		<h2>Learn More</h2>
 		<ul>
 			<li><a href="#">To learn more about what drives us, visit Our manifesto page.</a></li>
