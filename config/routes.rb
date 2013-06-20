@@ -22,6 +22,12 @@ Bodypoint::Application.routes.draw do
 	match '/wheelchair_positioning', to: 'pages#wheelchair_positioning'
 	match '/why_positioning_matters', to: 'pages#why_positioning_matters'
 	match '/terms_and_conditions', to: 'pages#terms_and_conditions'
+	match '/faq', to: 'pages#faq'
+	match '/literature', to: 'pages#literature'
+	match '/coding', to: 'pages#coding'
+	match '/find_a_partner', to: 'pages#find_a_partner'
+	match '/find_a_partner_rep', to: 'pages#find_a_partner_rep'
+	match '/find_a_partner_international', to: 'pages#find_a_partner_international'
 	
 
   # The priority is based upon order of creation:

@@ -1,0 +1,54 @@
+<div class="design_framework">
+
+<div class="literature">
+
+	<h1>Literature</h1>
+
+	<h2>Catalogs</h2>
+	<div class="literature_blocks">
+	
+		<a href="#" target="_blank"><img src="/assets/holder_square.png"></a>
+		<h3><a href="#" target="_blank">Bodypoint Product Catalog</a></h3>
+		<p>Check out our full line of products all in one, convenient catalog. </p>
+
+	</div>
+
+	<h2>Application User Guides</h2>
+
+	<p id="app_user_guide_p">Created by therapists, the Bodypoint User Guides are clinical ‘cheat sheets.’  These resources provide application based positioning solutions and information.</p>
+
+	<div class="literature_blocks">
+
+		<a href="/BMM044_Pelvic_Support_Users_Guide_low.pdf" target="_blank"><img src="/assets/holder_square.png"></a>
+		<h3><a href="/BMM044_Pelvic_Support_Users_Guide_low.pdf" target="_blank">Pelvic Support</a></h3>
+		<p>The pelvis is the key to postural alignment as it dictates the position of the trunk, head and extremities.</p>
+
+	</div>
+	<div class="literature_blocks">
+
+		<a href="#" target="_blank"><img src="/assets/holder_square.png"></a>
+		<h3><a href="#" target="_blank">Anterior Trunk Support</a></h3>
+		<p>The trunk is important to postural alignment and stability as it dictates the position of the head and upper extremities.</p>
+
+	</div>
+	<div class="literature_blocks">
+
+		<a href="/BMM039_Lower_Body_User's_Guide_low_res.pdf" target="_blank"><img src="/assets/holder_square.png"></a>
+		<h3><a href="/BMM039_Lower_Body_User's_Guide_low_res.pdf" target="_blank">Lower Body Support</a></h3>
+		<p>The long-term goals of good posture are; increased function, circulation, pressure relief and reduced demand on the muscles.</p>
+
+	</div>
+
+	<h2>Brochures</h2>
+	<div class="literature_blocks">
+		
+		<a href="#" target="_blank"><img src="/assets/holder_square.png"></a>
+		<h3><a href="#" target="_blank">Changing the Shape of Support</a></h3>
+		<p>Choose the right trunk support for comfort, fit and function. This brochure compares our shoulder and chest harnesses to help you find the right product for your individual needs.</p>
+
+	</div>
+
+
+</div>
+
+</div>

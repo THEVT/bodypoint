@@ -1360,3 +1360,274 @@ color: #333;
 	width: 440px;
 	float: left;
 }
+
+/************PRIVACY POLICY*************/
+
+.privacy_policy {
+	padding: 30px 0px;
+}
+
+.privacy_policy h2{
+	font-weight: bold;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+}
+
+.privacy_policy h3{
+	font-weight: bold;
+	padding: 10px 0px;
+	//margin: 0px 0px 30px 0px;
+}
+
+.privacy_policy p{
+	width: 750px;
+	font-size: 15px;
+}
+
+.privacy_policy ul{
+	color: #333;
+	width: 730px;
+	font-size: 15px;
+	line-height: 17px;
+}
+
+/**********FAQ****************/
+
+.faq {
+	padding: 30px 0px;
+}
+
+.faq h1{
+	font-weight: bold;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+}
+
+.faq h2{
+	font-weight: bold;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+}
+
+.faq h3{
+	font-weight: bold;
+	padding: 10px 0px;
+	width: 750px;
+	//margin: 0px 0px 30px 0px;
+}
+
+.faq p{
+	width: 750px;
+	font-size: 15px;
+}
+
+/***********LITERATURE*******/
+
+.literature {
+	padding: 30px 0px;
+}
+
+.literature h1{
+	font-weight: bold;
+	font-size: 210%;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+}
+
+.literature h2{
+	font-weight: bold;
+	padding: 30px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	font-size: 150%;
+	margin-bottom: 20px;
+	//background-color: yellow;
+	border-bottom-style:solid;
+	border-color:#9b9b9b;
+	border-width:1px;
+	width: 750px;
+}
+
+.literature h3{
+	font-weight: bold;
+	padding: 30px 0px 0px 140px;
+	width: 750px;
+	//margin: 0px 0px 30px 0px;
+}
+
+.literature p{
+	//background-color: orange;
+	width: 750px;
+	font-size: 15px;
+	padding: 0px 0px 20px 0px;
+}
+
+.literature img {
+	float: left;
+	width: 120px;
+	height: 150px;
+}
+
+.literature_blocks {
+	height: 180px;
+}
+
+.literature_blocks p {
+	width: 500px;
+	padding: 0px 0px 0px 140px;
+}
+
+.literature_catalogs {
+
+}
+
+.literature_users_guides_1 {
+
+}
+
+.literature_users_guides_2 {
+
+}
+
+.literature_users_guides_3 {
+
+}
+
+.literature_brochures {
+
+}
+
+/*************CODING************/
+
+.coding_page {
+	padding: 30px 0px;
+}
+
+.coding_page h1{
+	font-weight: bold;
+	font-size: 210%;
+	padding: 175px 0px 0px 20px;
+	margin: 0px 0px 0px 0px;
+}
+
+.coding_page h2{
+	font-weight: bold;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+	font-size: 150%;
+}
+
+.coding_page h3{
+	font-weight: bold;
+	padding: 10px 0px;
+	width: 750px;
+	font-size: 125%;
+	//margin: 0px 0px 30px 0px;
+}
+
+.coding_page p{
+	width: 725px;
+	font-size: 15px;
+}
+
+.coding_page_top {
+	background-image: url(/assets/holder_square_725.png);
+	background-repeat: no-repeat;
+	height: 300px;
+
+}
+
+/**********FIND A PARTNER****************/
+
+.find_a_partner {
+	padding: 30px 0px;
+}
+
+.find_a_partner h1 {
+	font-weight: bold;
+	font-size: 210%;
+	padding: 20px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.find_a_partner h2{
+	font-weight: bold;
+	padding: 40px 0px 0px 0px;
+	margin: 0px 0px 30px 0px;
+	font-size: 160%;
+	width: 850px;
+	border-bottom-style:solid;
+	border-color:#9b9b9b;
+	border-width:1px;
+}
+
+.find_a_partner h3{
+	font-weight: bold;
+	padding: 10px 0px;
+	width: 400px;
+	//margin: 0px 0px 30px 0px;
+}
+
+.find_a_partner p{
+	width: 750px;
+	font-size: 15px;
+}
+
+.find_a_partner_right {
+	float: right;
+	height: 800px;
+	margin: 0px 110px 0px 0px;
+}
+
+.find_a_partner_right p {
+	width: 275px;
+}
+
+.find_a_partner_map_links {
+	margin: 30px 0px 0px 0px;
+}
+
+.find_a_partner_map_links p {
+	height: 30px;
+	//width: px;
+	//padding: 5px 15px;
+	border-radius: 5px;
+	background-color: #00747f;
+	font-size: 14px;
+	line-height: 30px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.find_a_partner_map_links p:hover {
+	background-color: #00b1b1;
+	text-decoration: underline;
+}
+
+.find_a_partner_map_links a {
+	height: 30px;
+	//width: px;
+	padding: 7px 42px;
+	border-radius: 5px;
+	background-color: #00747f;
+	font-size: 14px;
+	line-height: 30px;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+#find_a_partner_map_links_representative {
+	padding: 7px 17px;
+}
+
+.find_a_partner_map_links a:hover {
+	background-color: #00b1b1;
+	text-decoration: underline;
+}
+
+.find_a_partner_map {
+	margin: 30px 0px 0px 0px;
+}
+
+
+

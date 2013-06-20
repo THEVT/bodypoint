@@ -35,4 +35,28 @@ class PagesController < ApplicationController
 	def images
 
 	end
+
+	def privacy_policy
+
+	end
+
+	def how_to_buy
+
+	end
+
+	def how_to_become_a_partner
+
+	end
+
+	def wheelchair_positioning
+
+	end
+
+	def why_positioning_matters
+	
+	end
+
+	def terms_and_conditions
+
+	end
 end

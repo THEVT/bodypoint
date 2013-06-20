@@ -17,6 +17,16 @@ Bodypoint::Application.routes.draw do
 	match '/whatcanbpdoforme_wheelchair_user', to: 'pages#whatcanbpdoforme_wheelchair_user'
 	match '/images', to: 'pages#images'
 	match '/how_to_buy', to: 'pages#how_to_buy'
+	match '/how_to_become_a_partner', to: 'pages#how_to_become_a_partner'
+	match '/privacy_policy', to: 'pages#privacy_policy'
+	match '/wheelchair_positioning', to: 'pages#wheelchair_positioning'
+	match '/why_positioning_matters', to: 'pages#why_positioning_matters'
+	match '/terms_and_conditions', to: 'pages#terms_and_conditions'
+	match '/faq', to: 'pages#faq'
+	match '/literature', to: 'pages#literature'
+	match '/coding', to: 'pages#coding'
+	match '/find_a_partner', to: 'pages#find_a_partner'
+	
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

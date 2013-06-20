@@ -59,4 +59,24 @@ class PagesController < ApplicationController
 	def terms_and_conditions
 
 	end
+
+	def privacy_policy
+
+	end
+
+	def faq
+
+	end
+
+	def literature
+
+	end
+
+	def coding
+
+	end
+
+	def find_a_partner
+
+	end
 end

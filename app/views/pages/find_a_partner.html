@@ -1,0 +1,58 @@
+<div class="design_framework">
+
+<div class="find_a_partner">
+
+	<h1>How to Find a Partner</h1>
+
+	<p>Bodypoint has partners all over the world that sell our products, support our channel and educate our customers about positioning. Click on a link below to find support in your area.</p>
+
+		<div id="pic1_click">
+			<p>Click To See First Photo</p>
+			<img id="pic1" src="/assets/lab.jpg" />
+		</div>
+		<div id="pic2_click">
+			<p>Click To See Second Photo</p>
+			<img id="pic2" src="/assets/pug.jpg" />
+		</div>
+		<div id="pic3_click">
+			<p>Click To See Third Photo</p>
+			<img id="pic3" src="/assets/monkey.jpg" />
+		</div>
+
+</div>
+
+</div>
+
+<script>
+$(document).ready(function() {
+   
+
+	$('.extra_boxes p')
+        .hover(function() {
+            $(this).stop().animate({ top: -10 }, 'fast');
+        }, function() {
+            $(this).stop().animate({ top: 0 }, 'fast');
+        });
+
+		$(function() {
+			$( ".extra_box" ).tabs();
+		  });
+
+		$("#pic1_click p").click(function(){
+			$("#pic1").toggle();
+			$("#pic2").hide();
+			$("#pic3").hide();
+		});
+		$("#pic2_click p").click(function(){
+			$("#pic2").toggle();
+			$("#pic1").hide();
+			$("#pic3").hide();
+		});
+		$("#pic3_click p").click(function(){
+			$("#pic3").toggle();
+			$("#pic2").hide();
+			$("#pic1").hide();
+		});
+});
+
+</script>

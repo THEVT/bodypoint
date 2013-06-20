@@ -1,0 +1,27 @@
+<div class="design_framework">
+
+<div class="find_a_partner">
+
+	<h1>How to Find a Partner</h1>
+
+	<p>Bodypoint has partners all over the world that sell our products, support our channel and educate our customers about positioning. Click on a link below to find support in your area.</p>
+<h2>U.S. Bodypoint Reseller</h2>
+	<div class="find_a_partner_right">
+		<div class="find_a_partner_map_links">
+			<p><%= link_to "U.S. Bodypoint Reseller", company_overview_path %></p>
+			<p><%= link_to "U.S. Bodypoint Representative", company_overview_path, :id => "find_a_partner_map_links_representative" %></p>
+			<p><%= link_to "International Partners", company_overview_path %></p>
+		</div>
+		<p>Still need help? <a href="#">Contact us.</a></p>
+	</div>
+
+	<div class="find_a_partner_map">
+		
+		<p>Search dealers by zip code, address or state</p>
+		<img src="/assets/map_dealers.png">
+		<p>View Dealers in a <a href="#">full screen map</a> </p>
+	</div>
+
+</div>
+
+</div>
