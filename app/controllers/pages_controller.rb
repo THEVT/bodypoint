@@ -79,4 +79,28 @@ class PagesController < ApplicationController
 	def find_a_partner
 
 	end
+
+	def success_stories_landing_page
+
+	end
+
+	def aditya_story
+
+	end
+
+	def alin_story
+
+	end
+
+	def barry_long_story
+
+	end
+
+	def hal_story
+
+	end
+
+	def todd_stabelfeldt_story
+
+	end
 end

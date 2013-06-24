@@ -59,4 +59,48 @@ class PagesController < ApplicationController
 	def terms_and_conditions
 
 	end
+
+	def privacy_policy
+
+	end
+
+	def faq
+
+	end
+
+	def literature
+
+	end
+
+	def coding
+
+	end
+
+	def find_a_partner
+
+	end
+
+	def success_stories_landing_page
+
+	end
+
+	def aditya_story
+
+	end
+
+	def alin_story
+
+	end
+
+	def barry_long_story
+
+	end
+
+	def hal_story
+
+	end
+
+	def todd_stabelfeldt_story.html
+
+	end
 end

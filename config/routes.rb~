@@ -26,6 +26,15 @@ Bodypoint::Application.routes.draw do
 	match '/literature', to: 'pages#literature'
 	match '/coding', to: 'pages#coding'
 	match '/find_a_partner', to: 'pages#find_a_partner'
+	match '/find_a_partner_rep', to: 'pages#find_a_partner_rep'
+	match '/find_a_partner_international', to: 'pages#find_a_partner_international'
+	match '/success_stories_landing_page', to: 'pages#success_stories_landing_page'
+	match '/aditya_story', to: 'pages#aditya_story'
+	match '/alin_story', to: 'pages#alin_story'
+	match '/barry_long_story', to: 'pages#barry_long_story'
+	match '/hal_story', to: 'pages#hal_story'
+	match '/todd_stabelfeldt_story.html', to: 'pages#todd_stabelfeldt_story.html'
+	
 	
 
   # The priority is based upon order of creation:
