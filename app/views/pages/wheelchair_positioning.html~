@@ -1,9 +1,11 @@
+<div class="wheelchair_positioning_background">
+
 <div class="design_framework">
 
 <div class="wheelchair_positioning">
 	<div class="wheelchair_positioning_top">
 
-		<img src="/assets/holder_square.png">
+		<!--<img src="/assets/holder_square.png">-->
 
 		<h1>Wheelchair <br>Positioning</h1>
 
@@ -11,8 +13,6 @@
 
 	</div>
 	<div class="wheelchair_positioning_mid">
-
-		<img src="/assets/holder_square.png">
 
 		<h2>Its Personal To Us</h2>
 
@@ -33,6 +33,8 @@
 		<p>Find out about our postural support products.</p>
 
 
+
+</div>
 
 </div>
 

@@ -1082,6 +1082,15 @@ color: #333;
 
 /*****WHEELCHAIR POSITIONING*****/
 
+.wheelchair_positioning_background {
+	width: 1100px;
+	margin: 0px auto;
+	padding: 0px;
+	background-image: url(/assets/holder_square_375.png);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
+
 .wheelchair_positioning {
 	padding: 30px 0px;
 }
@@ -1100,6 +1109,10 @@ color: #333;
 	font-weight: bold;
 }
 
+.wheelchair_positioning_top {
+	height: 360px;
+}
+
 .wheelchair_positioning_top img{
 	float: left;
 	width: 180px;
@@ -1108,7 +1121,7 @@ color: #333;
 }
 
 .wheelchair_positioning_top p{
-	width: 600px;
+	width: 400px;
 	margin: 0px 0px 70px 0px;
 	font-size: 15px;
 }
@@ -1118,6 +1131,15 @@ color: #333;
 }
 
 /*****WHY POSITIONING MATTERS*****/
+
+.why_positioning_matters_background {
+	width: 1100px;
+	margin: 0px auto;
+	padding: 0px;
+	background-image: url(/assets/holder_square_375.png);
+	background-repeat: no-repeat;
+	//background-color: yellow;
+}
 
 .why_positioning_matters {
 	padding: 30px 0px;
@@ -1147,7 +1169,7 @@ color: #333;
 
 .why_positioning_matters_top p{
 	width: 650px;
-	margin: 0px 0px 20px 0px;
+	margin: 315px 0px 20px 0px;
 	font-size: 15px;
 }
 
@@ -1157,14 +1179,28 @@ color: #333;
 
 /*****HOW TO BUY*****/
 
+.how_to_buy_background {
+	position: absolute;
+	z-index: -1;
+	width: 1100px;
+	height: 375px;
+	margin: 0px 0px 0px -80px;
+	background-image: url(/assets/holder_square_375.png);
+	background-repeat: no-repeat;
+}
+
 .how_to_buy {
 	padding: 30px 0px;
+}
+
+.how_to_buy_top {
+	height: 365px;
 }
 
 .how_to_buy h1{
 	font-weight: bold;
 	padding: 20px 0px 0px 0px;
-	margin: 0px 0px 30px 0px;
+	margin: 0px 0px 0px 0px;
 }
 
 .how_to_buy p{
@@ -1197,13 +1233,17 @@ color: #333;
 
 .terms_and_conditions ul{
 	list-style: none;
+	color: #333;
 }
 
 /***********Partner Center*********/
 
 .partner_center_background {
+	position: absolute;
+	z-index: -1;
 	width: 1100px;
-	margin: 0px auto;
+	height: 375px;
+	margin: 0px 0px 0px -80px;
 	background-image: url(/assets/holder_square_375.png);
 	background-repeat: no-repeat;
 	//background-color: yellow;
@@ -1291,7 +1331,7 @@ color: #333;
 	//background-color: orange;
 	height: 190px;
 	padding-top: 20px;
-	border-bottom-style:solid;
+	//border-bottom-style:solid;
 	border-color:#9b9b9b;
 	border-width:1px;
 }
@@ -1421,6 +1461,21 @@ color: #333;
 	font-size: 15px;
 }
 
+.faq ul {
+	list-style: none;
+	width: 750px;
+	font-size: 15px;
+	line-height: 16px;
+	padding-left: 0px;
+}
+
+.faq li {
+	list-style: none;
+	width: 750px;
+	font-size: 15px;
+	line-height: 16px;
+}
+
 /***********LITERATURE*******/
 
 .literature {
@@ -1505,35 +1560,40 @@ color: #333;
 .coding_page h1{
 	font-weight: bold;
 	font-size: 210%;
-	padding: 175px 0px 0px 20px;
+	padding: 0px 0px 20px 0px;
 	margin: 0px 0px 0px 0px;
 }
 
 .coding_page h2{
 	font-weight: bold;
 	padding: 20px 0px 0px 0px;
-	margin: 0px 0px 30px 0px;
-	font-size: 150%;
+	//margin: 0px 0px 20px 0px;
+	//font-size: 150%;
 }
 
 .coding_page h3{
 	font-weight: bold;
 	padding: 10px 0px;
 	width: 750px;
-	font-size: 125%;
+	//font-size: 125%;
 	//margin: 0px 0px 30px 0px;
 }
 
 .coding_page p{
 	width: 725px;
-	font-size: 15px;
+	//font-size: 15px;
 }
 
 .coding_page_top {
-	background-image: url(/assets/holder_square_725.png);
-	background-repeat: no-repeat;
-	height: 300px;
+	//background-color: orange;
+	height: 330px;
+}
 
+.coding_page_top img{
+	width: 200px;
+	height: 250px;
+	float: left;
+	margin: 15px 15px 15px 0px;
 }
 
 /**********FIND A PARTNER****************/
@@ -1638,7 +1698,7 @@ color: #333;
 .success_stories_landing_page h1 {
 	font-weight: bold;
 	font-size: 210%;
-	padding: 20px 0px 0px 0px;
+	padding: 20px 0px 20px 0px;
 	margin: 0px 0px 0px 0px;
 }
 
@@ -1658,7 +1718,7 @@ color: #333;
 }
 
 .success_stories_landing_page_top p{
-	padding: 0px 0px 30px 0px;
+	padding: 0px 0px 0px 0px;
 }
 
 .success_stories_landing_page_top h2{
@@ -1688,9 +1748,10 @@ color: #333;
 	//background-color: orange;
 	height: 835px;
 	width: 780px;
+	margin-top: 10px;
 	padding-top: 15px;
 	border-top-style:solid;
-	border-bottom-style:solid;
+	//border-bottom-style:solid;
 	border-color:#9b9b9b;
 	border-width:1px;
 }
@@ -1699,7 +1760,7 @@ color: #333;
 	//background-color: yellow;
 	width: 260px;
 	height: 400px;
-	padding-bottom: 15px;
+	padding-bottom: 25px;
 	float: left;
 }
 
@@ -1749,10 +1810,11 @@ color: #333;
 
 .success_story_page_top {
 	//background-color: orange;
+	margin-bottom: 30px;
 }
 
 .success_story_page_top p{
-	padding: 0px 0px 30px 0px;
+	padding: 0px 0px 0px 0px;
 }
 
 .success_story_page_top h2{
@@ -1788,6 +1850,7 @@ color: #333;
 .story_container {
 	//background-color: orange;
 	//height: 880px;
+	margin-top: 10px;
 	width: 940px;
 	padding-top: 15px;
 	border-top-style:solid;
@@ -1798,21 +1861,28 @@ color: #333;
 
 .story_container img {
 	//background-color: green;
-	width: 350px;
-	height: 220px;
+	height: 262px;
+	width: auto;
+}
+
+.story_container_top_images {
+	float:left;
+	height: 285px;
 }
 
 .story_container_top_p {
 	//background-color: green;
 	//position: relative;
 	width: 220px;
-	float: right;
-	padding-top: 15px;
+	height: 285px;
+	float: left;
+	
 }
 
 .story_container_top_p p{
 	//background-color: yellow;
 	//position: relative;
+	padding: 15px 0px 0px 15px;
 	width: 200px;
 }
 
@@ -1820,7 +1890,7 @@ color: #333;
 	//background-color: green;
 	width: 180px;
 	float: left;
-	padding-top: 30px;
+	padding-top: 15px;
 }
 
 .story_container_left h2{

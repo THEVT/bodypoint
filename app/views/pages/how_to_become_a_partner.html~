@@ -1,6 +1,10 @@
-<div class="partner_center_background">
+
 
 <div class="design_framework">
+
+<div class="partner_center_background">
+
+</div>
 
 <div class="partner_center">
 
@@ -27,7 +31,8 @@
 
 			<h2>What can Bodypoint <br>do for me?</h2>
 
-			<p>lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			<p>Choose One:<br>
+				<a href="#">Dealer </a>&nbsp/&nbsp<a href="#"> Therapist </a>&nbsp/&nbsp<a href="#"> Wheelchair User </a></p>
 
 		</div>
 		<div class="partner_center_mid_3">
@@ -67,14 +72,6 @@
 
 	</div>
 	<div class="partner_center_bottom">
-
-		<h3>Sub Headline</h3>
-
-		<h3>Sub Headline</h3>
-
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu f</p>
-
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu f</p>
 
 	</div>
 
