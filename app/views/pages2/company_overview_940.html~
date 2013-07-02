@@ -1,12 +1,15 @@
-<div class="company_overview_2_background">
 
 <div class="design_framework">
+
+<div class="company_overview_940_background">
+
+</div>
 
 <div class="company_overview_940">
 
 	<h1>The Power of <br>Human Potential</h1>
 
-	<p id="company_overview_940_qoute">&#34At Bodypoint, we work every day to better understand the capabilities and aspirations of people who use wheelchairs. As we imagine, design and manufacture our products, we strive to bridge the gap between the hard and the soft, the inanimate and the living, to create a better connection between wheelchairs and people.&#34<br><br><span style="font-style: normal">-David Hintzman, President</span></p>
+	<p id="company_overview_940_qoute">"At Bodypoint, we work every day to better understand the capabilities and aspirations of people who use wheelchairs. As we imagine, design and manufacture our products, we strive to bridge the gap between the hard and the soft, the inanimate and the living, to create a better connection between wheelchairs and people."<br><br><span style="font-style: normal">-David Hintzman, President</span></p>
 
 	<div class="company_overview_940_mid">
 
@@ -16,11 +19,11 @@
 
 	</div>
 
-	<h2>We&#39re proud of what we do</h2>
+	<h2>We're proud of what we do</h2>
 
 	<div class="company_overview_940_lower">
 
-		<p>We make products that are a part of people&#39s everyday lives so we understand how important it is to make them extraordinary. We appreciate the recognition we receive and work hard every day to be worthy of it.</p>
+		<p>We make products that are a part of people's everyday lives so we understand how important it is to make them extraordinary. We appreciate the recognition we receive and work hard every day to be worthy of it.</p>
 
 		<a href="#"><img src="/assets/ml100award.jpg" alt="ML100Award" id="ml100award_img_2"></a>
 	<!--
@@ -34,7 +37,7 @@
 
 	<h2 >Nothing says ingenuity like being first</h2>
 
-	<p>We&#39re passionate about solving problems in new ways -- in fact, we have numerous patents to prove it. Take a look at our remarkable legacy of innovation. And just imagine what the future will bring. Click here to view our Innovation Timeline</p>
+	<p>We're passionate about solving problems in new ways -- in fact, we have numerous patents to prove it. Take a look at our remarkable legacy of innovation. And just imagine what the future will bring. Click here to view our Innovation Timeline</p>
 
 	<div id="link_style_21">
 		<h2>Learn More</h2>
@@ -45,8 +48,6 @@
 		</ul>
 
 	</div>
-
-</div>
 
 </div>
 

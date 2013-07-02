@@ -553,6 +553,42 @@ color: #333;
 
 /*******Company culture ********////
 
+.company_culture_940_background {
+	position: absolute;
+	z-index: -1;
+	width: 1100px;
+	height: 375px;
+	margin: 0px 0px 0px -80px;
+	background-image: url(/assets/umbrella_blue.png);
+	background-repeat: no-repeat;
+}
+
+.company_culture_940 {
+	padding: 20px 0px;
+	
+}
+
+.company_culture_940_top {
+	height: 370px;
+	
+}
+
+.company_culture_940_top h1{
+	padding: 80px 0px 0px 70px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.company_culture_940 p{
+	width: 860px;
+}
+
+#comapny_culture_2_what_we_value{
+	font-size: 25px;
+	margin: 25px 0px;
+}
+
+/*
 .company_culture {
 	//background-color: orange;
 	padding: 20px 70px;
@@ -661,6 +697,7 @@ color: #333;
 	padding-top: 140px;
 	padding-right: 40px;
 }
+*/
 
 /*********OUR MANIFESTO**********/
 
@@ -1185,7 +1222,7 @@ color: #333;
 	width: 1100px;
 	height: 375px;
 	margin: 0px 0px 0px -80px;
-	background-image: url(/assets/holder_square_375.png);
+	background-image: url(/assets/bodypoint_buckles_2.png);
 	background-repeat: no-repeat;
 }
 
@@ -1197,10 +1234,16 @@ color: #333;
 	height: 365px;
 }
 
+.how_to_buy_top p{
+	color: #fff;
+	padding: 0px 0px 0px 60px;
+}
+
 .how_to_buy h1{
 	font-weight: bold;
-	padding: 20px 0px 0px 0px;
+	padding: 70px 0px 0px 60px;
 	margin: 0px 0px 0px 0px;
+	color: #fff;
 }
 
 .how_to_buy p{

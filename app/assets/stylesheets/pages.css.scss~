@@ -1185,7 +1185,7 @@ color: #333;
 	width: 1100px;
 	height: 375px;
 	margin: 0px 0px 0px -80px;
-	background-image: url(/assets/holder_square_375.png);
+	background-image: url(/assets/bodypoint_buckles_2.png);
 	background-repeat: no-repeat;
 }
 
@@ -1197,10 +1197,16 @@ color: #333;
 	height: 365px;
 }
 
+.how_to_buy_top p{
+	color: #fff;
+	padding: 0px 0px 0px 60px;
+}
+
 .how_to_buy h1{
 	font-weight: bold;
-	padding: 20px 0px 0px 0px;
+	padding: 70px 0px 0px 60px;
 	margin: 0px 0px 0px 0px;
+	color: #fff;
 }
 
 .how_to_buy p{
@@ -1871,7 +1877,7 @@ color: #333;
 }
 
 .story_container_top_p {
-	background-color: green;
+	//background-color: green;
 	//position: relative;
 	width: 220px;
 	height: 285px;
